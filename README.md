@@ -19,7 +19,7 @@ A smart task management app built with React, Tailwind CSS, and TypeScript. It s
 - React + TypeScript
 - Tailwind CSS
 - Google Gemini API (via fetch)
-- Vite (or Next.js if used)
+- Vite 
 - uuid for unique task IDs
 
 ---
@@ -30,3 +30,15 @@ A smart task management app built with React, Tailwind CSS, and TypeScript. It s
    ```bash
    git clone https://github.com/yourusername/smart-task-manager.git
    cd smart-task-manager
+
+2. **Install dependencies:**
+   ```bash
+   pnpm install
+3. **Create a .env file**
+   ```bash
+   VITE_GEMINI_API_KEY=AIzaSyBUqwsG6Y0pacX4lcSnh5lqu48nR06XV24
+4. **Run locally:**
+   ```bash
+   pnpm run dev
+
+
