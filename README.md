@@ -28,7 +28,7 @@ A smart task management app built with React, Tailwind CSS, and TypeScript. It s
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/smart-task-manager.git
+   git clone git@github.com:Md-Solaiman-Ovi/smart-task-manager.git
    cd smart-task-manager
 
 2. **Install dependencies:**
