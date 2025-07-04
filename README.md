@@ -8,7 +8,7 @@ A smart task management app built with React, Tailwind CSS, and TypeScript. It s
 
 - Add/Edit/Delete tasks
 - Track task status: Pending or Completed
-- Suggest subtasks using Gemini AI (e.g. "Plan a trip" → "Book tickets, Pack bags...")
+- Suggest subtasks using Gemini AI 
 - Responsive design
 - Clean, minimal UI
 
